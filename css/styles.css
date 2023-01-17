@@ -16,4 +16,11 @@
     position: absolute;
     top: 10%;
     left: 10%;
+}.square{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
 }
