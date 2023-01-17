@@ -1,0 +1,10 @@
+*{
+    border-color: black;
+}
+.container{
+    width: 50vw;
+    height: 50vh;
+    margin-top: calc(50%-50vh);
+    margin-left: auto;
+    margin-right: auto;
+}
